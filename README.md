@@ -1,0 +1,2 @@
+# Gaea
+Auto increase points.
