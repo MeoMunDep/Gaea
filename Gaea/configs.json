@@ -1,1 +1,6 @@
-{ "limit": 100, "countdown": 300, "country_time": "en-US" }
+{
+  "timeZone": "en-US",
+  "delayEachAccount": [1, 81],
+  "timeToRestartAllAccounts": 300,
+  "howManyAccountsRunInOneTime": 1
+}
