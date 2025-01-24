@@ -51,7 +51,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```
 
-### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/13996)
+### 2. `datas.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNee/1274)
 
 ```txt
 ey...
@@ -59,7 +59,7 @@ ey...
 ey...
 ```
 
-### 2.1 `ids.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNe/257/37285)
+### 2.1 `ids.txt` 🗂️ - Get it from here >>> [Link](https://t.me/KeoAirDropFreeNee/1276)
 
 ```txt
 ey...
@@ -87,6 +87,6 @@ socks5://user:password@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd gaea-main/gaea; node bot`
+> To run the bot, use the following command: `cd gaea-main/gaea; node meomundep`
 
 🎇Enjoy!
