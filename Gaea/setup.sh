@@ -33,7 +33,8 @@ create_default_configs() {
   "timeZone": "en-US",
   "delayEachAccount": [1, 81],
   "timeToRestartAllAccounts": 300,
-  "howManyAccountsRunInOneTime": 1
+  "howManyAccountsRunInOneTime": 1,
+  "doTasks": true
 }
 EOL
 }
