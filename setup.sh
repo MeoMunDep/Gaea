@@ -69,7 +69,6 @@ check_git
 create_default_configs() {
     cat > configs.json << EOL
 {
-  "timeZone": "en-US",
   "delayEachAccount": [1, 1],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 100,
