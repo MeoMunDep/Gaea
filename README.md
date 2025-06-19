@@ -95,6 +95,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it
-> To run the bot, use the following command: `cd gaea-main/gaea; node meomundep`
+> To run the bot, use the following command: `cd gaea; node meomundep`
 
 🎇Enjoy!
