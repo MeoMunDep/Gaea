@@ -1,7 +1,7 @@
 📞 Contact
-> 📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
+📱 **For Mobile Users (Termux):** [View the guide here](https://github.com/MeoMunDep/Guides-for-using-my-script-on-termux)
 
-> If you encounter any issues or have questions, feel free to reach out:
+If you encounter any issues or have questions, feel free to reach out:
 
 - Contact: [Link](t.me/MeoMunDep)
 - Group: [Link](t.me/KeoAirDropFreeNe)
@@ -31,7 +31,7 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 1. **Install Dependencies and Modules:**
 
    ```
-   npm i user-agents axios meo-forkcy-colors meo-forkcy-utils https-proxy-agent socks-proxy-agent crypto-js ws uuid
+   npm i user-agents axios meo-forkcy-colors meo-forkcy-utils meo-forkcy-proxy meo-forkcy-logger crypto-js ws 
    ```
 
 2. **Prepare Configuration Files:**
@@ -44,7 +44,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "timeZone": "en-US",
   "delayEachAccount": [1, 81],
   "timeToRestartAllAccounts": 300,
   "howManyAccountsRunInOneTime": 1,
